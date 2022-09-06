@@ -9,6 +9,6 @@
 <img src="https://img.shields.io/badge/SaaS-blue"> <img src="https://img.shields.io/badge/Postman-red"> <img src="https://img.shields.io/badge/Git-orange"> <img src="https://img.shields.io/badge/Elasticsearch-blue"> <img src="https://img.shields.io/badge/Data structures & Algorithms-green"></div>
 
 - **Skills:** Python, Java, Database tuning, Data analysis, Web development (backend).
-- **Personal Website:** [https://rupalimishra-v2.github.io/](Rupali Mishra)
-- **My projects:** [thub.com/rupalimishra-v2?tab=repositories](Projects)
+- **Personal Website:** [Rupali Mishra](https://rupalimishra-v2.github.io/)
+- **My projects:** [Projects](github.com/rupalimishra-v2?tab=repositories)
 - **Coding languages (mostly use):** Python, Java.
