@@ -9,14 +9,15 @@
 <img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat"> 
 <img src="https://img.shields.io/badge/Pandas-red?logo=pandas"> 
 <img src="https://img.shields.io/badge/Numpy-grey?logo=numpy"> 
+<img src="https://img.shields.io/badge/Web Scraping-blue"> 
 <img src="https://img.shields.io/badge/AWS-blue?logo=aws"> 
 <img src="https://img.shields.io/badge/Rest-green"> 
 <img src="https://img.shields.io/badge/PostgreSQL-orange?logo=postgresql">
 <img src="https://img.shields.io/badge/SaaS-blue"> 
-<img src="https://img.shields.io/badge/Postman-red"> 
-<img src="https://img.shields.io/badge/Git-orange"> 
-<img src="https://img.shields.io/badge/Elasticsearch-blue"> 
-<img src="https://img.shields.io/badge/Data structures & Algorithms-green"></div>
+<img src="https://img.shields.io/badge/Postman-red?logo=postman"> 
+<img src="https://img.shields.io/badge/Git-orange?logo=git"> 
+<img src="https://img.shields.io/badge/Elasticsearch-blue?logo=elasticsearch"> 
+<img src="https://img.shields.io/badge/Data structures & Algorithms-grey"></div>
 
 - **Skills:** Python, Java, Database tuning, Data analysis, Web development (backend).
 - **Personal Website:** [Rupali Mishra](https://rupalimishra-v2.github.io/)
