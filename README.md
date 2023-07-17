@@ -22,4 +22,4 @@
 - **Skills:** Python, Java, Database tuning, Data analysis, Web development (backend).
 - **Personal Website:** [Rupali Mishra](https://rupalimishra-v2.github.io/)
 - **My projects:** [Projects](github.com/rupalimishra-v2?tab=repositories)
-- **Coding languages (mostly use):** Python, Java.
+- **Coding languages (mostly use):** Python, Java, Golang.
